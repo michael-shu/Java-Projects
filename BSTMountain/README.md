@@ -4,4 +4,4 @@ Each rest-stop can hold a variety of resources and obstacles. The three resource
 
 This program builds the mountain based on a text file like test, with the names of the rest stops and their resources/obstacles following the name. The goal is to print out all the valid paths based on the mountain generated. The output prints out the names of the rest stops used to traverse down the mountain from the root on the left, to the final leaf on the right. Each new row is a distinct path down the mountain. 
 
-I've described in the BSTMountain class how the mountain is generated, but I've also included a picture in a "test-mountain" file that corresponds to the mountain created by test, in order to make mountain generation clearer. 
+I've described in the BSTMountain class how the mountain is generated, but I've also included a picture in a "test-mountain" file that corresponds to the mountain created by test, in order to make mountain generation clearer with an example. 
