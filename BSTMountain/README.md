@@ -11,3 +11,6 @@ on the left. Each new row is a distinct path down the mountain.
 
 I've described in the BSTMountain class how the mountain is generated, but I've also included a picture in a "test-mountain" file that corresponds to the mountain 
 created by test, in order to make mountain generation clearer. 
+
+
+../BST-mountain-test.jpg
